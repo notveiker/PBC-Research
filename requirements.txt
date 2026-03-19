@@ -1,0 +1,6 @@
+artemis
+matplotlib
+numpy
+pandas
+python-dotenv
+statsmodels

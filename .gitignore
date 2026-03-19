@@ -1,0 +1,13 @@
+.DS_Store
+.env
+.venv/
+__pycache__/
+*.pyc
+
+# Generated outputs
+charts/figures/*
+!charts/figures/.gitkeep
+outputs/tables/*
+!outputs/tables/.gitkeep
+outputs/summaries/*
+!outputs/summaries/.gitkeep
