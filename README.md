@@ -1,6 +1,6 @@
 # Maple Factor and Valuation Analysis
 
-This repository contains the core notebook and scripts for the Maple analysis workflow.
+This repo contains the core notebook and scripts for the Maple analysis, including the state-space / kalman analysis
 
 ## Included
 
